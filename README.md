@@ -52,8 +52,8 @@ src/
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/angular-firebase-videos.git
-cd angular-firebase-videos
+git clone https://github.com/neydarisJaylinne/BandaExalumnosFront.git
+cd BandaExalumnosFront
 ````
 
 ### 2. Instala dependencias
