@@ -8,11 +8,11 @@ Este proyecto en Angular se conecta a Firebase Firestore para mostrar una galer�
 
 -  Integración en tiempo real con Firebase Firestore
 -  Filtros:
-  - Por instrumento
-  - Por categoría musical
-  - Orden alfabético (A-Z)
-  - Búsqueda por texto
-- Reproductor embebido (YouTube, Vimeo, etc.)
+   -  Por instrumento
+   - Por categoría musical
+   - Orden alfabético (A-Z)
+   - Búsqueda por texto
+- Reproductor embebido (YouTube)
 - Arquitectura Angular modular con componentes y servicios
 
 ---
